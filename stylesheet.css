@@ -1,56 +1,51 @@
-#noPadding{
-  padding: 0px;
-  width: auto;
-
+#noPadding {
+    padding: 0px;
+    width: auto;
 }
 
-#textMargin{
-  width: auto;
-  margin-left: 60px;
-  margin-right: 60px;
+#textMargin {
+    width: auto;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
-#alignRight{
-  float: right;
+#alignRight {
+    float: right;
 }
 
-#underline{
-  text-decoration: underline;
+#underline {
+    text-decoration: underline;
 }
 
-
-img{
-
-  border-radius:30px;
+img {
+    border-radius: 30px;
 }
 
-h1{
-  font-size: 80px;
-
+h1 {
+    font-size: 80px;
 }
 
-span{
-  background-color: rgb(75, 153, 158);
+span {
+    background-color: rgb(75, 153, 158);
 }
 
-body{
-  background-image: url(https://i.ytimg.com/vi/yKk3WDSFOos/maxresdefault.jpg);
-  background-size:cover;
-  font-family: Lato;
-  text-align: center;
-  margin: 0 auto;
-  color: white;
-  background-color: rgb(0, 188, 214);
-  width: auto;
-
+body {
+    background-image: url(https://i.ytimg.com/vi/yKk3WDSFOos/maxresdefault.jpg);
+    background-size: cover;
+    font-family: Lato;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    background-color: rgb(0, 188, 214);
+    width: auto;
 }
 
-ul{
-  background-color: rgb(0, 158, 204);
+ul {
+    background-color: rgb(0, 158, 204);
 }
 
-.nav.nav-tabs li a{
-  color: white;
+.nav.nav-tabs li a {
+    color: white;
 }
 
 .img-responsive {
