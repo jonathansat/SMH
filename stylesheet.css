@@ -1,17 +1,11 @@
-#circular{
-  border-radius:30px;
-  opacity: 0.8;
-
-}
-.img-responsive {
-    margin: 0 auto;
-}
-
 #noPadding{
   padding: 0px;
+  width: auto;
+
 }
 
 #textMargin{
+  width: auto;
   margin-left: 60px;
   margin-right: 60px;
 }
@@ -24,16 +18,30 @@
   text-decoration: underline;
 }
 
+
+img{
+
+  border-radius:30px;
+}
+
 h1{
   font-size: 80px;
+
+}
+
+span{
+  background-color: rgb(75, 153, 158);
 }
 
 body{
+  background-image: url(https://i.ytimg.com/vi/yKk3WDSFOos/maxresdefault.jpg);
+  background-size:cover;
   font-family: Lato;
   text-align: center;
   margin: 0 auto;
   color: white;
   background-color: rgb(0, 188, 214);
+  width: auto;
 
 }
 
@@ -43,4 +51,8 @@ ul{
 
 .nav.nav-tabs li a{
   color: white;
+}
+
+.img-responsive {
+    margin: 0 auto;
 }
