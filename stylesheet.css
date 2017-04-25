@@ -1,15 +1,39 @@
 #circular{
   border-radius:30px;
   opacity: 0.8;
-
-
 }
+
+#noPadding{
+  padding: 0px;
+}
+
+#textMargin{
+  margin-left: 60px;
+  margin-right: 60px;
+}
+h1{
+  font-size: 80px;
+}
+
 body{
-  font-family: courier;
+  font-family: Lato;
   text-align: center;
-  background-color: rgb(93, 223, 255);
+  color: white;
+  background-color: rgb(0, 188, 214);
 }
 
 #underline{
   text-decoration: underline;
+}
+ul{
+  background-color: rgb(0, 158, 204);
+}
+
+.nav.nav-tabs li a{
+  color: white;
+}
+
+
+#alignRight{
+  float: right;
 }
